@@ -17,7 +17,7 @@ export default function Home() {
       />
 
       <div className="flex flex-col absolute top-1/3 left-1/2 -translate-x-1/2 -translate-y-1/2 items-center justify-center gap-4 z-20">
-        <div className="relative w-[450px] h-[450px]">
+        <div className="relative w-[400px] h-[450px]">
           <Image
             src="/hbd1.png"
             alt="Birthday Message"
